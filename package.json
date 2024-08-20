@@ -1,0 +1,16 @@
+{
+  "name": "keystone-app",
+  "version": "1.0.0",
+  "description": "Backend for mobitronic",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ivan Pavic",
+  "license": "ISC",
+  "dependencies": {
+    "@keystone-6/auth": "^8.0.0",
+    "@keystone-6/core": "^6.2.0",
+    "typescript": "^5.5.4"
+  }
+}

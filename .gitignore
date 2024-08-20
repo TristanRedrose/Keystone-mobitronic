@@ -1,0 +1,12 @@
+.keystone/
+.next/
+dist/
+node_modules/
+*.db
+
+# ts-gql
+__generated__
+
+# system
+.DS_Store
+*.vscode
